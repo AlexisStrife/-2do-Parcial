@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1530660813 source:c:\users\alumno\desktop\regina alexis parcial 2 laboratorio\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530659433 c:\users\alumno\desktop\regina alexis parcial 2 laboratorio\arraylist.h
+
+1530051944 source:c:\users\alumno\desktop\regina alexis parcial 2 laboratorio\empleado.c
+	"Empleado.h"
+
+1530051944 c:\users\alumno\desktop\regina alexis parcial 2 laboratorio\empleado.h
+
+1530665601 source:d:\regina alexis parcial 2 laboratorio\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530659433 d:\regina alexis parcial 2 laboratorio\arraylist.h
+
+1530665015 source:d:\regina alexis parcial 2 laboratorio\empleado.c
+	"Empleado.h"
+
+1530051944 d:\regina alexis parcial 2 laboratorio\empleado.h
+
+1530662157 source:d:\regina alexis parcial 2 laboratorio\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"input.h"
+
+1530659771 d:\regina alexis parcial 2 laboratorio\input.h
+
+1530665872 source:d:\regina alexis parcial 2 laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+	"input.h"
+
+1530051944 d:\regina alexis parcial 2 laboratorio\parser.h
+	"ArrayList.h"
+
+1530666430 source:d:\regina alexis parcial 2 laboratorio\parser.c
+	<stdio.h>
+	"Empleado.h"
+	"ArrayList.h"
+
